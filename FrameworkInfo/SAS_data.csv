@@ -1,0 +1,15 @@
+Parameter;Value
+Crystal System;tetragonal
+Space Group;I 4/m m m (# 139)
+Unit cell lengths;a = 14.3490 Å, b = 14.3490 Å, c = 10.3980 Å
+Unit cell angles;α = 90.000°, β = 90.000°, γ = 90.000°
+Volume;2140.9 cubic Å
+Framework density;14.9 T/1000 cubic Å
+Ring sizes (# T-atoms);8 6 4
+Channel dimensionality;Topological (pore opening > 6-ring)
+; 1-dimensional
+Maximum diameter of a sphere;
+that can be included;8.99 Å
+Maximum diameter of a sphere;
+that can diffuse along;a: 2.02 Å, b: 2.02 Å, c: 4.22 Å
+Accessible volume:;18.09 %

@@ -1,0 +1,15 @@
+Parameter;Value
+Crystal System;orthorhombic
+Space Group;P b c n (# 60)
+Unit cell lengths;a = 5.0100 Å, b = 31.2340 Å, c = 9.0120 Å
+Unit cell angles;α = 90.000°, β = 90.000°, γ = 90.000°
+Volume;1410.2 cubic Å
+Framework density;19.9 T/1000 cubic Å
+Ring sizes (# T-atoms);9 6 5 4
+Channel dimensionality;Topological (pore opening > 6-ring)
+; 1-dimensional
+Maximum diameter of a sphere;
+that can be included;3.93 Å
+Maximum diameter of a sphere;
+that can diffuse along;a: 3.63 Å, b: 1.25 Å, c: 1.51 Å
+Accessible volume:;2.39 %

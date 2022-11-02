@@ -1,0 +1,15 @@
+Parameter;Value
+Crystal System;trigonal
+Space Group;P -3 m 1 (# 164)
+Unit cell lengths;a = 13.2381 Å, b = 13.2381 Å, c = 17.4820 Å
+Unit cell angles;α = 90.000°, β = 90.000°, γ = 120.000°
+Volume;2653.3 cubic Å
+Framework density;15.8 T/1000 cubic Å
+Ring sizes (# T-atoms);8 6 4
+Channel dimensionality;Topological (pore opening > 6-ring)
+; 2-dimensional
+Maximum diameter of a sphere;
+that can be included;7.14 Å
+Maximum diameter of a sphere;
+that can diffuse along;a: 3.55 Å, b: 3.55 Å, c: 2.48 Å
+Accessible volume:;14.36 %

@@ -1,0 +1,15 @@
+Parameter;Value
+Crystal System;hexagonal
+Space Group;P -6 m 2 (# 187)
+Unit cell lengths;a = 12.2810 Å, b = 12.2810 Å, c = 15.6320 Å
+Unit cell angles;α = 90.000°, β = 90.000°, γ = 120.000°
+Volume;2041.8 cubic Å
+Framework density;17.6 T/1000 cubic Å
+Ring sizes (# T-atoms);6 4
+Channel dimensionality;Topological (pore opening > 6-ring)
+; 0-dimensional
+Maximum diameter of a sphere;
+that can be included;6.05 Å
+Maximum diameter of a sphere;
+that can diffuse along;a: 2.37 Å, b: 2.37 Å, c: 2.29 Å
+Accessible volume:;0.00 %

@@ -1,0 +1,15 @@
+Parameter;Value
+Crystal System;triclinic
+Space Group;P -1 (# 2)
+Unit cell lengths;a = 13.0270 Å, b = 11.1822 Å, c = 9.2189 Å
+Unit cell angles;α = 92.350°, β = 107.300°, γ = 104.500°
+Volume;1231.6 cubic Å
+Framework density;16.2 T/1000 cubic Å
+Ring sizes (# T-atoms);10 8 6 5 4
+Channel dimensionality;Topological (pore opening > 6-ring)
+; 2-dimensional
+Maximum diameter of a sphere;
+that can be included;7.56 Å
+Maximum diameter of a sphere;
+that can diffuse along;a: 1.72 Å, b: 3.28 Å, c: 5.31 Å
+Accessible volume:;18.01 %

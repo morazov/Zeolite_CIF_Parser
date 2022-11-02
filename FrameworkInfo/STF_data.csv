@@ -1,0 +1,15 @@
+Parameter;Value
+Crystal System;monoclinic
+Space Group;C 1 2/m 1 (# 12)
+Unit cell lengths;a = 14.1040 Å, b = 18.2050 Å, c = 7.4770 Å
+Unit cell angles;α = 90.000°, β = 98.989°, γ = 90.000°
+Volume;1896.3 cubic Å
+Framework density;16.9 T/1000 cubic Å
+Ring sizes (# T-atoms);10 6 5 4
+Channel dimensionality;Topological (pore opening > 6-ring)
+; 1-dimensional
+Maximum diameter of a sphere;
+that can be included;7.63 Å
+Maximum diameter of a sphere;
+that can diffuse along;a: 1.57 Å, b: 1.26 Å, c: 5.44 Å
+Accessible volume:;15.39 %
