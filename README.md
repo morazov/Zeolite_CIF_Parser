@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/92121568/200044145-467b8613-9622-4c2d-
 ## Instructions:
 All of the available frameworks posted on the IZA website (as of Nov 1, 2022) have already been processed and the resulting files are available in this repository.
 
-To reprocess the database (in case of future updates), run the individual scripts in the order they are introduced in [Code Components](#code-components) to generate corresponding files. **Note:** you will need to have dependencies listed in the [requirements](requirements.txt) file installed. To quickly install, run the following in your terminal:
+To reprocess the database (in case of future updates), run the individual scripts in the order they are introduced in [Code Components](#code-components) to generate corresponding files. **Note:** you will need to have dependencies listed in the [requirements](requirements.txt) file installed. To quickly install, run the following in your terminal after cloning this repository:
 ```
 py -m pip install -r requirements.txt
 ```
